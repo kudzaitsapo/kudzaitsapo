@@ -13,4 +13,4 @@ My name is Kudzai Tsapo and :
 - 💬 Ask me about ... `Developing APIs with Flask and FlaskRestful` :thinking: 
 - 📫 How to reach me: ... 
 Email: kudzaitsapo@gmail.com Twitter: [My twitter](https://twitter.com/kudzaitsapo)
-- ⚡ Fun fact: ... `Did you know: The first oranges weren’t orange` :thinking:
+- ⚡ Fun fact: ... `Did you know: The first oranges weren’t orange` :astonished:
