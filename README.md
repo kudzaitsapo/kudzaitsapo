@@ -8,5 +8,5 @@ My name is Kudzai Tsapo and :
 - 👯 I’m looking to collaborate on `any Django related projects`
 - 🤔 I’m looking for help with `developing a digital library ...`
 - 💬 Ask me about `developing APIs with Flask and FlaskRestful` :thinking: 
-- 📫 How to reach me: Email: kudzaitsapo@gmail.com Twitter: [My twitter](https://twitter.com/kudzaitsapo)
+- 📫 How to reach me: kudzaitsapo@gmail.com [My twitter](https://twitter.com/kudzaitsapo)
 - ⚡ Fun fact: `Did you know: The first oranges weren’t orange` :astonished:
